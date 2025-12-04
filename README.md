@@ -1,5 +1,5 @@
 # NeetCode-Roadmap
-Leetcode Interview Preparation following the NeetCode Roadmap guide.
+Solutions to Leetcode Interview Preparation following the NeetCode Roadmap guide in C++.
 
 
 ## Roadmap
